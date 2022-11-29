@@ -38,3 +38,6 @@ Learners will be able to:
 |10 mins|Instructors assist learners to push changes to remote repository.|
 ||**END CLASS 3 HR MARK**|
 
+Done
+
+
